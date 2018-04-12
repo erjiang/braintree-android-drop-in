@@ -50,7 +50,7 @@ There are 2 modules that comprise this SDK:
 * Java 8
 * Android Studio
 * Gradle
-* Android SDK >= 15
+* Android SDK >= 16
 * Host app has a secure, authenticated server with a [Braintree server-side integration](https://developers.braintreepayments.com/android/start/hello-server)
 
 ## Committing
